@@ -1,5 +1,7 @@
 # OSINT CTF Writeup — “A Ilha da Corrupção Vol. 08”
 
+![Certificado](./docs/certified.png) 
+
 ## Descrição do Desafio
 
 O desafio descreve um pequeno país afetado pela crise financeira de 2008, onde um político e sua esposa estavam ligados a uma empresa offshore associada a bancos falidos. Após a exposição no maior vazamento financeiro da história moderna, ocorreram protestos massivos e o político renunciou em menos de 48 horas.
